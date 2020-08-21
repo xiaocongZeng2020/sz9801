@@ -10,5 +10,6 @@ public class Main {
         System.out.println("我是老大");
         System.out.println("我是老二");
         System.out.println("我是冲突1")    }
-        System.out.println("我是大招2")    
+        System.out.println("我是大招1") 
+         System.out.println("我是大招2")    
 }
