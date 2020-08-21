@@ -13,5 +13,8 @@ public class Main {
         System.out.println("我是大招1") 
          System.out.println("我是大招2")   
          System.out.println("我是新同事") 
-         System.out.println("我是a")   
+         System.out.println("我是a")  
+	public static void main(String[] args){
+		
+	}
 }
